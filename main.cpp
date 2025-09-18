@@ -1,7 +1,7 @@
 /*
 Asignación 1: Binary Digit
 Nombre: Teo Richiez Mateo
-Núm. Est: 801-234364
+Núm. Est: 801-234364 .
 */
 
 #include <iostream>
